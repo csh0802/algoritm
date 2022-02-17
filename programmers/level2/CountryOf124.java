@@ -34,6 +34,8 @@ public class CountryOf124 {
             Scanner sc = new Scanner(System.in);
             int i = sc.nextInt();
 
+            int[] a = {1,2,3,4};
+            int b = a.length;
 
             System.out.println(solution(i));
         }
